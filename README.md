@@ -2,7 +2,7 @@
 
 ### Hi there, I'm a 2nd year Computer Science student in NUS!
 
-- 👯 I enjoy working with React building mobile applications
+- 👯 I enjoy working with React and building mobile applications
 - 🔭 I’m currently working on Sort-Algo, a sorting visualiser web application
 
 ## Languages & Technologies
