@@ -1,6 +1,6 @@
 ### Hi there, I'm Keane 👋💻
 
-### Hi there, I'm a 2nd year Computer Science student in NUS!
+## I'm a 2nd year Computer Science student in NUS!
 
 - 👯 I enjoy working with React Native, React and Java
 - 🔭 I’m currently working on Sort-Algo, a sorting visualiser web application
