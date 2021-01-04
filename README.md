@@ -7,21 +7,44 @@
 
 ## Languages & Technologies
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://reactjs.org/)
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
-[<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />](https://firebase.google.com/)
-[<img align="left" alt="Java" width="30px" src="https://simpleicons.org/icons/java.svg" />](https://www.java.com/en/)
-[<img align="left" alt="JavaFX" width="30px" height="20px" src="https://upload.wikimedia.org/wikipedia/en/c/cc/JavaFX_Logo.png" />](https://openjfx.io/)
-[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
-[<img align="left" alt="Nodejs" width="26px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" />](https://nodejs.org/en/)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/topics/css)
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/topics/html5)
-[<img align="left" alt="adobe xd" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />](https://www.adobe.com/sea/products/xd.html)
+<div align="left>
+  <a href="https://reactjs.org/" title="React">
+    <img width="26" src="images/react.png" />
+  </a>
+  <a href="https://www.javascript.com/" title="JavaScript">
+    <img width="26" src="images/javascript.png" />
+  </a>
+  <a href="https://firebase.google.com/" title="Firebase">
+    <img width="26" src="images/firebase.png" />
+  </a>
+  <a href="https://www.java.com/en/" title="Java">
+    <img width="26" src="images/java.png" />
+  </a>
+  <a href="https://openjfx.io/" title="JavaFX">
+    <img width="40" src="images/javafx.png" />
+  </a>
+  <a href="https://www.python.org/" title="Python">
+    <img width="26" src="images/python.png" />
+  </a>
+  <a href="https://nodejs.org/en/" title="Node.js">
+    <img width="22" src="images/nodejs-icon.svg" />
+  </a>
+  <a href="https://github.com/topics/css" title="CSS">
+    <img width="26" src="images/css.png" />
+  </a>
+  <a href="https://github.com/topics/html5" title="HTML">
+    <img width="26" src="images/html.png" />
+  </a>
+  <a href="https://www.adobe.com/sea/products/xd.html" title="Adobe XD">
+    <img width="26" src="images/adobexd.png" />
+  </a>
+</div>
 
 <br />
 <br />
 
 ---
+
 <details>
   
   <summary>:zap: GitHub stats</summary>
