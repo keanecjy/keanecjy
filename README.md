@@ -15,7 +15,6 @@
   <a href="https://firebase.google.com/" title="Firebase"><img width="36" src="images/firebase.png" /></a>
   &nbsp
   <a href="https://www.java.com/en/" title="Java"><img width="44" src="images/java.png" /></a>
-  &nbsp
   <a href="https://openjfx.io/" title="JavaFX"><img width="70" src="images/javafx.png" /></a>
   &nbsp
   <a href="https://www.python.org/" title="Python"><img width="36" src="images/python.png" /></a>
