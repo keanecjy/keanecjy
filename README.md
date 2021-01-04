@@ -20,7 +20,7 @@
   &nbsp
   <a href="https://www.python.org/" title="Python"><img width="36" src="images/python.png" /></a>
   &nbsp
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img width="36" src="images/C.png" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img width="36" src="images/C.svg" /></a>
   &nbsp
   <a href="https://nodejs.org/en/" title="Node.js"><img width="30" src="images/nodejs-icon.svg" /></a>
   &nbsp
