@@ -1,11 +1,11 @@
-### Hi there, I'm Keane 👋💻
+## Hi there, I'm Keane 👋💻
 
-## I'm a 2nd year Computer Science student in NUS!
+### I'm a 2nd year Computer Science student in NUS!
 
 - 👯 I enjoy working with React Native, React and Java
 - 🔭 I’m currently working on Sort-Algo, a sorting visualiser web application
 
-## Languages & Technologies
+### Languages & Technologies
 
 <div>
   <a href="https://reactjs.org/" title="React"><img width="36" src="images/react.png" /></a>
@@ -32,6 +32,11 @@
 
 <br />
 <br />
+
+### Get to know more about me at
+
+* [My personal website](https://keanecjy.github.io/me/)
+* [LinkedIn](https://www.linkedin.com/in/keanecjy/)
 
 ---
 
