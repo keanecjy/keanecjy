@@ -1,4 +1,4 @@
-## Hi there, I'm Keane 👋💻
+# Hi there, I'm Keane 👋💻
 
 ### I'm a 2nd year Computer Science student in NUS!
 
@@ -29,9 +29,6 @@
   &nbsp
   <a href="https://www.adobe.com/sea/products/xd.html" title="Adobe XD"><img width="32" src="images/adobexd.png" /></a>
 </div>
-
-<br />
-<br />
 
 ### Get to know more about me at
 
