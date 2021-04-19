@@ -40,7 +40,8 @@
 <details>
   
   <summary>:zap: GitHub stats</summary>
-  <img alt="Keane's Github stats" src="https://github-readme-stats.vercel.app/api?username=keanecjy&show_icons=true&theme=material-palenight" />
-  <img alt="Keane's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keanecjy" />
-  
+  <div>
+    <img alt="Keane's Github stats" src="https://github-readme-stats.vercel.app/api?username=keanecjy&show_icons=true&theme=material-palenight" />
+    <img alt="Keane's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keanecjy" />
+  </div>
 </details>
