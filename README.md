@@ -26,15 +26,13 @@
   &nbsp
   <a href="https://www.mongodb.com/" title="MongoDB"><img width="30" src="images/mongoDb.png" /></a>
   &nbsp
-  <a href="https://getbootstrap.com/" title="Bootstrap"><img width="30" src="images/bootstrap.png" /></a>
-  &nbsp
   <a href="https://openjfx.io/" title="JavaFX"><img width="70" src="images/javafx.png" /></a>
+  &nbsp
+  <a href="https://getbootstrap.com/" title="Bootstrap"><img width="30" src="images/bootstrap.png" /></a>
   &nbsp
   <a href="https://www.python.org/" title="Python"><img width="36" src="images/python.png" /></a>
   &nbsp
-  <a href="https://github.com/topics/css" title="CSS"><img width="36" src="images/css.png" /></a>
-  &nbsp
-  <a href="https://github.com/topics/html5" title="HTML"><img width="36" src="images/html.png" /></a>
+  <a href="https://firebase.google.com/" title="Firebase"><img width="36" src="images/firebase.png" /></a>
   &nbsp
   <a href="https://www.adobe.com/sea/products/xd.html" title="Adobe XD"><img width="32" src="images/adobexd.png" /></a>
 </div>
