@@ -26,7 +26,7 @@
   &nbsp
   <a href="https://www.mongodb.com/" title="MongoDB"><img src="images/mongodb.svg" height="35" width="auto" /></a>
   &nbsp
-  <a href="https://openjfx.io/" title="JavaFX"><img src="images/javafx.png" height="375" width="750" /></a>
+  <a href="https://openjfx.io/" title="JavaFX"><img src="images/javafx.png" height="35" width="auto" /></a>
   &nbsp
   <a href="https://www.python.org/" title="Python"><img src="images/python.svg" height="35" width="auto" /></a>
   &nbsp;
