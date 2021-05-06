@@ -1,6 +1,6 @@
-# Hi there, I'm Keane 👋 💻
+## Hi there, I'm Keane 👋 💻
 
-### I'm a Computer Science undergraduate in NUS!
+## I'm a Computer Science undergraduate in NUS!
 
 - 👯 I enjoy working with Java, Spring, and React
 - 🔭 I’m currently working on learning new technologies in the Web Development space
@@ -35,7 +35,7 @@
   <a href="https://www.adobe.com/sea/products/xd.html" title="Adobe XD"><img src="images/adobexd.svg" height="35" width="auto" /></a>
 </div>
 
-### Get to know more about me at
+## Get to know more about me at
 
 * [My personal website](https://keanecjy.github.io/me/)
 * [LinkedIn](https://www.linkedin.com/in/keanecjy/)
