@@ -10,25 +10,23 @@
 <div>
   <a href="https://www.java.com/en/" title="Java"><img width="44" src="images/java.png" /></a>
   &nbsp
-  <a href="https://www.java.com/en/" title="Spring Boot"><img width="44" src="images/spring.png" /></a>
+  <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img width="44" src="images/spring.png" /></a>
   &nbsp
-  <a href="https://www.javascript.com/" title="PostgreSQL"><img width="36" src="images/postgreSQL.png" /></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img width="36" src="images/postgreSQL.png" /></a>
   &nbsp
   <a href="https://reactjs.org/" title="React"><img width="36" src="images/react.png" /></a>
   &nbsp
-  <a href="https://reactjs.org/" title="Redux"><img width="36" src="images/redux.png" /></a>
+  <a href="https://redux.js.org/" title="Redux"><img width="36" src="images/redux.png" /></a>
   &nbsp
   <a href="https://www.javascript.com/" title="JavaScript"><img width="36" src="images/javascript.png" /></a>
   &nbsp
   <a href="https://nodejs.org/en/" title="Node.js"><img width="30" src="images/nodejs-icon.svg" /></a>
   &nbsp
-  <a href="https://nodejs.org/en/" title="Express.js"><img width="30" src="images/express.png" /></a>
+  <a href="https://expressjs.com/" title="Express.js"><img width="30" src="images/express.png" /></a>
   &nbsp
-  <a href="https://nodejs.org/en/" title="MongoDB"><img width="30" src="images/mongoDb.png" /></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img width="30" src="images/mongoDb.png" /></a>
   &nbsp
-  <a href="https://nodejs.org/en/" title="Bootstrap"><img width="30" src="images/bootstrap.png" /></a>
-  &nbsp
-  <a href="https://nodejs.org/en/" title="Node.js"><img width="30" src="images/nodejs-icon.svg" /></a>
+  <a href="https://getbootstrap.com/" title="Bootstrap"><img width="30" src="images/bootstrap.png" /></a>
   &nbsp
   <a href="https://openjfx.io/" title="JavaFX"><img width="70" src="images/javafx.png" /></a>
   &nbsp
