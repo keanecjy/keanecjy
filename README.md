@@ -2,8 +2,8 @@
 
 ## I'm a Computer Science undergraduate in NUS!
 
-- 👯 I enjoy working with Java, Spring, and React
-- 🔭 I’m currently working on learning new technologies in the Web Development space
+- 👯  I enjoy working with Java, Spring, and React
+- 🔭  I’m currently learning new technologies in the Web Development space
 
 ## Languages & Technologies
 
