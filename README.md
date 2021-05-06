@@ -24,7 +24,7 @@
   &nbsp;
   <a href="https://expressjs.com/" title="Express.js"><img src="images/express.svg" height="35" width="auto" /></a>
   &nbsp
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="images/mongodb.svg" height="35" width="auto" /></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="images/mongodb.svg" height="33" width="auto" /></a>
   &nbsp
   <a href="https://openjfx.io/" title="JavaFX"><img src="images/javafx.png" height="35" width="auto" /></a>
   &nbsp
