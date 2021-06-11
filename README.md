@@ -2,8 +2,8 @@
 
 ## I'm a Computer Science undergraduate in NUS!
 
-- 👯 I enjoy working with Java, Spring, and React
-- 🔭 I’m currently learning new backend web technologies in the Web Development space
+- 👯 &nbsp;&nbsp; I enjoy working with Java, Spring Boot, and gRPC
+- 🔭 &nbsp;&nbsp; I’m currently a Software Engineer Intern (Backend) at [TransferWise](https://wise.com/)
 
 ## Languages & Technologies
 
