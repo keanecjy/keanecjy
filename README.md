@@ -9,26 +9,27 @@
 
 <div>
   <a href="https://www.java.com/en/" title="Java"><img src="images/java.svg" height="35" width="auto" /></a>
-  &nbsp
+  &nbsp;
   <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="images/spring.svg" height="35" width="auto" /></a>
-  &nbsp
+  &nbsp;
   <a href="https://grpc.io/" title="gRPC"><img src="images/grpc.png" height="35" width="auto" /></a>
-  &nbsp
+  &nbsp;
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="images/postgresql.svg" height="35" width="auto" /></a>
-  &nbsp
+  &nbsp;
   <a href="https://kafka.apache.org/" title="Kafka"><img src="images/kafka.svg" height="35" width="auto" /></a>
-  &nbsp
+  &nbsp;
   <a href="https://www.docker.com/" title="Docker"><img src="images/docker.svg" height="35" width="auto" /></a>
-  &nbsp
+  &nbsp;
   <a href="https://www.javascript.com/" title="JavaScript"><img src="images/javascript.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://nodejs.org/en/" title="NodeJs"><img src="images/nodejs.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://expressjs.com/" title="Express.js"><img src="images/express.svg" height="35" width="auto" /></a>
-  &nbsp
+  &nbsp;
   <a href="https://reactjs.org/" title="React"><img src="images/react.svg" height="35" width="auto" /></a>
+  &nbsp;
   <a href="https://www.mongodb.com/" title="MongoDB"><img src="images/mongodb.svg" height="29" width="auto" /></a>
-  &nbsp
+  &nbsp;
   <a href="https://openjfx.io/" title="JavaFX"><img src="images/javafx.png" height="35" width="auto" /></a>
 </div>
 
