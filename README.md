@@ -12,7 +12,7 @@
   &nbsp;
   <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="images/spring.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://grpc.io/" title="gRPC"><img src="images/grpc.png" height="35" width="auto" /></a>
+  <a href="https://grpc.io/" title="gRPC"><img src="images/grpc.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="images/postgresql.svg" height="35" width="auto" /></a>
   &nbsp;
@@ -30,7 +30,6 @@
   &nbsp;
   <a href="https://www.mongodb.com/" title="MongoDB"><img src="images/mongodb.svg" height="29" width="auto" /></a>
   &nbsp;
-  <a href="https://openjfx.io/" title="JavaFX"><img src="images/javafx.png" height="35" width="auto" /></a>
 </div>
 
 ## Get to know more about me at
