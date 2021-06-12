@@ -27,7 +27,7 @@
   <a href="https://reactjs.org/" title="React"><img src="images/react.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.mongodb.com/" title="MongoDB"><img src="images/mongodb.svg" height="29" width="auto" /></a>
-  &nbsp;
+  &nbsp;  
 </div>
 
 ## Get to know more about me at
