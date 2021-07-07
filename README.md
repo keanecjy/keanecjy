@@ -3,7 +3,7 @@
 ## I'm a Computer Science undergraduate in NUS!
 
 - 👯 &nbsp;&nbsp; I enjoy working with Java, Spring Boot, and gRPC
-- 🔭 &nbsp;&nbsp; I’m currently a Software Engineer Intern at [TransferWise](https://wise.com/)
+- 🔭 &nbsp;&nbsp; I’m currently a Software Engineer Intern at [Wise](https://wise.com/)
 
 ## Languages & Technologies
 
