@@ -12,11 +12,11 @@
   &nbsp;
   <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="images/spring.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://grpc.io/" title="gRPC"><img src="images/grpc.svg" height="32" width="auto" /></a>
+  <a href="https://grpc.io/" title="gRPC"><img src="images/grpc.svg" height="28" width="auto" /></a>
   &nbsp;
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="images/postgresql.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://golang.org/" title="Go"><img src="images/go.svg" height="30" width="auto" /></a>
+  <a href="https://golang.org/" title="Go"><img src="images/go.svg" height="25" width="auto" /></a>
   &nbsp;
   <a href="https://kafka.apache.org/" title="Kafka"><img src="images/kafka.svg" height="35" width="auto" /></a>
   &nbsp;
