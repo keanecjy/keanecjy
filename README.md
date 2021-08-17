@@ -12,17 +12,17 @@
   &nbsp;
   <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="images/spring.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://grpc.io/" title="gRPC"><img src="images/grpc.svg" height="35" width="auto" /></a>
+  <a href="https://grpc.io/" title="gRPC"><img src="images/grpc.svg" height="32" width="auto" /></a>
   &nbsp;
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="images/postgresql.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://golang.org/" title="Go"><img src="images/go.svg" height="35" width="auto" /></a>
+  <a href="https://golang.org/" title="Go"><img src="images/go.svg" height="30" width="auto" /></a>
   &nbsp;
   <a href="https://kafka.apache.org/" title="Kafka"><img src="images/kafka.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://groovy-lang.org/" title="Groovy"><img src="images/groovy.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://www.docker.com/" title="Docker"><img src="images/docker.svg" height="35" width="auto" /></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="images/docker.svg" height="32" width="auto" /></a>
   &nbsp;
   <a href="https://www.javascript.com/" title="JavaScript"><img src="images/javascript.svg" height="35" width="auto" /></a>
   &nbsp;
