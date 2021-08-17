@@ -16,7 +16,7 @@
   &nbsp;
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="images/postgresql.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://golang.org/" title="Go"><img src="images/go.svg" height="25" width="auto" /></a>
+  <a href="https://golang.org/" title="Go"><img src="images/golang-icon.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://kafka.apache.org/" title="Kafka"><img src="images/kafka.svg" height="35" width="auto" /></a>
   &nbsp;
