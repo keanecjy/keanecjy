@@ -3,7 +3,7 @@
 ## I'm a 3rd Year Computer Science undergraduate in NUS!
 
 - 👯 &nbsp;&nbsp; I enjoy working with Java, Spring Boot, PostgreSQL and gRPC
-- 🔭 &nbsp;&nbsp; I’m currently a Software Engineer Intern at [Wise](https://wise.com/)
+- 🔭 &nbsp;&nbsp; I’m currently a Software Engineer Intern at [Carousell](https://careers.carousell.com/)
 
 ## Languages & Technologies
 
