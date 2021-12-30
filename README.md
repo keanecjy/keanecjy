@@ -3,7 +3,7 @@
 ## I'm a penultimate year Computer Science undergraduate at NUS!
 
 - 👯 &nbsp;&nbsp; I enjoy working with Java, Spring Boot, Golang and gRPC
-- 🔭 &nbsp;&nbsp; I’m currently a Software Engineer Intern at [Carousell](https://careers.carousell.com/)
+- 🔭 &nbsp;&nbsp; I’m currently a Software Engineer Intern at [Wise](https://wise.com/)
 
 ## Languages & Technologies
 
