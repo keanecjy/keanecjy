@@ -47,5 +47,4 @@
 <details>
   <summary>:zap: GitHub stats</summary>
     <div><img alt="Keane's Github stats" src="https://github-readme-stats.vercel.app/api?username=keanecjy&show_icons=true&count_private=true" /></div>
-    <div><img alt="Keane's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keanecjy" /></div>
 </details>
