@@ -20,8 +20,6 @@
   &nbsp;
   <a href="https://kafka.apache.org/" title="Kafka"><img src="images/kafka.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://groovy-lang.org/" title="Groovy"><img src="images/groovy.svg" height="35" width="auto" /></a>
-  &nbsp;
   <a href="https://www.docker.com/" title="Docker"><img src="images/docker.svg" height="32" width="auto" /></a>
   &nbsp;
   <a href="https://www.javascript.com/" title="JavaScript"><img src="images/javascript.svg" height="35" width="auto" /></a>
@@ -31,8 +29,6 @@
   <a href="https://reactjs.org/" title="React"><img src="images/react.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://nodejs.org/en/" title="NodeJs"><img src="images/nodejs.svg" height="35" width="auto" /></a>
-  &nbsp;
-  <a href="https://nestjs.com/" title="NestJS"><img src="images/nestjs.svg" height="35" width="auto" /></a>
   &nbsp;
 
 </div>
