@@ -23,7 +23,11 @@
   &nbsp;
   <a href="https://developer.apple.com/swift/" title="Swift"><img src="images/skills/swift.png" height="48" width="auto" /></a>
   &nbsp;
+  <a href="https://firebase.google.com/" title="Firebase"><img src="images/skills/firebase.svg" height="40" width="auto" /></a>
+  &nbsp;
   <a href="https://graphql.org/" title="GraphQL"><img src="images/skills/graphql.svg" height="40" width="auto" /></a>
+  &nbsp;
+  <a href="https://flow.org/" title="Flow"><img src="images/skills/flow.png" height="40" width="auto" /></a>
   &nbsp;
   <a href="https://hacklang.org/" title="Hack"><img src="images/skills/hack.svg" height="40" width="auto" /></a>
   &nbsp;
