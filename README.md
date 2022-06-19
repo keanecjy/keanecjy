@@ -2,9 +2,9 @@
 
 ## I'm a final year Computer Science undergraduate at NUS!
 
-- 👯 &nbsp;&nbsp; I'm currently interning at [Meta (Facebook)](https://www.metacareers.com/)
-- 👯 &nbsp;&nbsp; I'm currently learning Software Engineering and Web Development
-- 🔭 &nbsp;&nbsp; I'm looking to collaborate with others to solve challenging problems
+- 🔭 &nbsp;&nbsp; I'm currently interning at [Meta (Facebook)](https://www.metacareers.com/)
+- 🌱 &nbsp;&nbsp; I'm currently learning Software Engineering and Web Development
+- 👯 &nbsp;&nbsp; I'm looking to collaborate with others to solve challenging problems
 
 ## Languages & Technologies
 
