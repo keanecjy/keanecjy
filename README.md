@@ -9,6 +9,10 @@
 ## Languages & Technologies
 
 <div>
+  <a href="https://reactjs.org/" title="React"><img src="images/skills/react.svg" height="36" width="auto" /></a>
+  &nbsp;
+  <a href="https://www.javascript.com/" title="JavaScript"><img src="images/skills/javascript.svg" height="36" width="auto" /></a>
+  &nbsp;
   <a href="https://www.java.com/en/" title="Java"><img src="images/skills/java.svg" height="36" width="auto" /></a>
   &nbsp;
   <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="images/skills/spring.svg" height="36" width="auto" /></a>
@@ -16,10 +20,6 @@
   <a href="https://grpc.io/" title="gRPC"><img src="images/skills/grpc.svg" height="28" width="auto" /></a>
   &nbsp;
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="images/skills/postgresql.svg" height="36" width="auto" /></a>
-  &nbsp;
-  <a href="https://www.javascript.com/" title="JavaScript"><img src="images/skills/javascript.svg" height="36" width="auto" /></a>
-  &nbsp;
-  <a href="https://reactjs.org/" title="React"><img src="images/skills/react.svg" height="36" width="auto" /></a>
   &nbsp;
   <a href="https://developer.apple.com/swift/" title="Swift"><img src="images/skills/swift.png" height="48" width="auto" /></a>
   &nbsp;
