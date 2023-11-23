@@ -1,23 +1,25 @@
 ## Hi there, I'm Keane 👋 💻
 
-## I'm a final year Computer Science undergraduate at NUS!
-
-- 🔭 &nbsp;&nbsp; I'm currently interning at [Meta (Facebook)](https://www.metacareers.com/)
-- 🌱 &nbsp;&nbsp; I'm currently learning Software Engineering and Web Development
+- 🌱 &nbsp;&nbsp; My interests are in backend engineering and building software that is both scalable and impactful!
 - 👯 &nbsp;&nbsp; I'm looking to collaborate with others to solve challenging problems
+
+## Get to know more about me at
+
+- [My personal website](https://keanecjy.github.io/me/)
+- [LinkedIn](https://www.linkedin.com/in/keanecjy/)
 
 ## Languages & Technologies
 
 <div>
+  <a href="https://www.java.com/en/" title="Java"><img src="images/skills/java.svg" height="36" width="auto" /></a>
+  &nbsp;
+  <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="images/skills/spring.svg" height="36" width="auto" /></a>
+  &nbsp;
   <a href="https://reactjs.org/" title="React"><img src="images/skills/react.svg" height="36" width="auto" /></a>
   &nbsp;
   <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="images/skills/typescript.svg" height="36" width="auto" /></a>
   &nbsp;
   <a href="https://expressjs.com/" title="Express"><img src="images/skills/express.svg" height="36" width="auto" /></a>
-  &nbsp;
-  <a href="https://www.java.com/en/" title="Java"><img src="images/skills/java.svg" height="36" width="auto" /></a>
-  &nbsp;
-  <a href="https://spring.io/projects/spring-boot" title="Spring Boot"><img src="images/skills/spring.svg" height="36" width="auto" /></a>
   &nbsp;
   <a href="https://hacklang.org/" title="Hack"><img src="images/skills/hack.svg" height="40" width="auto" /></a>
   &nbsp;
@@ -33,11 +35,6 @@
   &nbsp;
 
 </div>
-
-## Get to know more about me at
-
-- [My personal website](https://keanecjy.github.io/me/)
-- [LinkedIn](https://www.linkedin.com/in/keanecjy/)
 
 ---
 
